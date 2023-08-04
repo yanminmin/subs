@@ -1,9 +1,9 @@
 package main
 
 import (
-	"example.org/hello"
-	"example.org/utils"
 	"fmt"
+	"github.com/yanminmin/subs/hello"
+	"github.com/yanminmin/subs/utils"
 )
 
 func main() {
