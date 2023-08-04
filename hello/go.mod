@@ -1,4 +1,4 @@
-module github.com/yanminmin/subs/hello/v1.0.1
+module github.com/yanminmin/subs/hello
 
 go 1.17
 
