@@ -3,8 +3,8 @@ module github.com/yanminmin/subs
 go 1.17
 
 require (
-	github.com/yanminmin/subs/hello v0.0.0
-	github.com/yanminmin/subs/utils v0.0.0
+	github.com/yanminmin/subs/hello v1.0.1
+	github.com/yanminmin/subs/utils v1.0.1
 
 )
 
